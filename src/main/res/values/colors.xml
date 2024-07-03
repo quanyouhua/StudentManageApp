@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_minefragment_top">#20B2AA</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="listviewbackcolor1">#66f1a2</color>
+    <color name="listviewbackcolor2">#ffc0cb</color>
+    <color name="mylistviewSelectColor1">#83dfd4</color>
+    <color name="mylistviewSelectColor2">#ffc9fe</color>
+
+
+
+    <color name="colorPrimary1">#ffc0cb</color>
+    <color name="colorPrimaryDark1">#ffc9fe</color>
+    <color name="colorAccent1">#D81B60</color>
+    <color name="color_minefragment_top1">#ffc0cb</color>
+</resources>

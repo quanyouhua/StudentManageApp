@@ -1,0 +1,7 @@
+#Sat Oct 31 21:57:43 CST 2020
+base.0=F\:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_abce91e42ebb09d416415bbf5deaff83cf1e46a9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0980f4561d6225dd7b0e095a1b52b02889e6b88\\classes.dex
+base.1=F\:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0980f4561d6225dd7b0e095a1b52b02889e6b88
+file.0=F\:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_abce91e42ebb09d416415bbf5deaff83cf1e46a9\\classes.dex

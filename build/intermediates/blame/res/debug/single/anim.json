@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\works\\jsq\\学生信息管理系统\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Program Files\\Android\\AndroidStudioAvd\\.android\\build-cache\\31e176d19924677b988d0415ddbc3f73759b3dbb\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

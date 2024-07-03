@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/beijing</item>
+        <item name="windowNoTitle">true</item>
+        <!--<item name="windowActionBar">false</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--按钮背景色-->
+        <item name="myButtonColor">@color/color_minefragment_top</item>
+        <!--文字颜色-->
+        <item name="myTextColor">@color/white</item>
+        <!--ListView背景色-->
+        <item name="mylistviewColor">@color/listviewbackcolor1</item>
+        <!--ListView选中项颜色-->
+        <item name="mylistviewSelectColor">@color/mylistviewSelectColor1</item>
+
+    </style>
+    <style name="myTheme">
+        <item name="android:windowBackground">@drawable/beijing2</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--按钮背景色-->
+        <item name="myButtonColor">@color/colorPrimary1</item>
+        <!--文字颜色-->
+        <item name="myTextColor">@color/black</item>
+        <!--ListView背景色-->
+        <item name="mylistviewColor">@color/listviewbackcolor2</item>
+        <!--ListView选中项颜色-->
+        <item name="mylistviewSelectColor">@color/mylistviewSelectColor2</item>
+
+    </style>
+</resources>
